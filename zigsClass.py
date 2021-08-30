@@ -1,3 +1,4 @@
+#Class for reply messages. Device Class not used.
 class SimpleDescriptorResponse:
     instances = []
     entryNumber = 0
